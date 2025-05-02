@@ -1,0 +1,1001 @@
+CustomerID,ChurnStatus,LastLoginDate,LoginFrequency,ServiceUsage,AmountSpent,ProductCategory,ResolutionStatus,Recency
+1,0,2023-10-21,34,Mobile App,416.5,Electronics,Resolved,557
+2,1,2023-12-05,5,Website,1547.42,Electronics,Resolved,512
+3,0,2023-11-15,3,Website,1702.98,Furniture,Resolved,532
+4,0,2023-08-25,2,Website,917.29,Electronics,Neutral,614
+5,0,2023-10-27,41,Website,2001.49,Electronics,None,551
+6,0,2023-09-17,2,Website,1164.29,Furniture,Resolved,591
+7,0,2023-01-07,32,Mobile App,86.73,Books,None,844
+8,1,2023-04-22,17,Online Banking,2046.88,Books,Unresolved,739
+9,0,2023-06-27,24,Website,1317.24,Clothing,Resolved,673
+10,1,2023-01-13,29,Online Banking,1397.36,Furniture,None,838
+11,0,2023-01-22,30,Online Banking,1733.83,Books,Neutral,829
+12,0,2023-12-31,43,Website,87.1,Electronics,Neutral,486
+13,0,2023-07-05,10,Mobile App,392.02,Books,Resolved,665
+14,0,2023-01-10,26,Online Banking,2843.59,Groceries,Neutral,841
+15,0,2023-06-15,44,Online Banking,1914.02,Books,Unresolved,685
+16,1,2023-03-15,41,Online Banking,2019.79,Books,Resolved,777
+17,0,2023-09-03,8,Online Banking,1625.27,Electronics,Neutral,605
+18,1,2023-11-24,37,Website,951.38,Books,Unresolved,523
+19,0,2023-03-08,39,Online Banking,1017.26,Furniture,Unresolved,784
+20,0,2023-08-15,16,Website,2775.85,Clothing,Resolved,624
+21,0,2023-06-16,18,Website,913.02,Books,None,684
+22,0,2023-05-06,42,Mobile App,1582.73,Furniture,Resolved,725
+23,0,2023-07-07,19,Mobile App,1490.74,Books,Neutral,663
+24,0,2023-10-04,12,Mobile App,1143.22,Clothing,Resolved,574
+25,0,2023-02-15,27,Mobile App,764.77,Groceries,Resolved,805
+26,1,2023-09-29,45,Mobile App,571.76,Books,Resolved,579
+27,0,2023-10-01,22,Mobile App,2210.6,Clothing,Unresolved,577
+28,0,2023-10-26,42,Online Banking,1702.26,Electronics,Unresolved,552
+29,0,2023-09-02,34,Website,853.07,Clothing,Neutral,606
+30,0,2023-07-12,38,Website,706.66,Books,Neutral,658
+31,0,2023-08-17,23,Online Banking,1108.56,Books,Resolved,622
+32,0,2023-01-06,48,Mobile App,1225.52,Groceries,None,845
+33,1,2023-05-19,24,Mobile App,689.0,Clothing,Resolved,712
+34,0,2023-04-03,44,Online Banking,1886.4,Clothing,Neutral,758
+35,0,2023-05-23,19,Mobile App,779.84,Books,Unresolved,708
+36,0,2023-02-11,6,Online Banking,1321.55,Electronics,Resolved,809
+37,0,2023-08-28,3,Online Banking,3166.88,Clothing,Resolved,611
+38,0,2023-11-27,47,Online Banking,874.86,Groceries,Resolved,520
+39,0,2023-01-20,26,Online Banking,1191.94,Electronics,None,831
+40,0,2023-10-14,20,Website,1578.35,Groceries,Resolved,564
+41,1,2023-07-04,38,Mobile App,363.22,Clothing,Unresolved,666
+42,0,2023-07-17,10,Mobile App,530.61,Books,None,653
+43,0,2023-05-25,25,Mobile App,2213.63,Clothing,Neutral,706
+44,0,2023-11-13,35,Mobile App,687.82,Groceries,Unresolved,534
+45,0,2023-09-02,49,Online Banking,300.42,Groceries,Unresolved,606
+46,1,2023-07-31,24,Online Banking,134.67,Electronics,None,639
+47,0,2023-04-19,21,Website,1466.37,Furniture,None,742
+48,0,2023-06-12,34,Website,1597.29,Books,None,688
+49,0,2023-02-19,18,Online Banking,641.48,Books,None,801
+50,0,2023-07-15,19,Online Banking,1514.62,Groceries,Unresolved,655
+51,1,2023-10-31,3,Mobile App,549.86,Books,None,547
+52,0,2023-02-16,6,Mobile App,401.25,Groceries,None,804
+53,0,2023-10-02,20,Mobile App,1255.34,Groceries,None,576
+54,0,2023-01-20,22,Online Banking,461.21,Books,Resolved,831
+55,0,2023-08-18,33,Website,1129.35,Clothing,None,621
+56,0,2023-08-20,14,Mobile App,1443.46,Books,None,619
+57,0,2023-07-20,44,Online Banking,597.75,Books,Unresolved,650
+58,0,2023-04-17,9,Online Banking,2215.82,Clothing,Unresolved,744
+59,0,2023-12-11,45,Online Banking,292.51,Electronics,None,506
+60,0,2023-03-02,25,Mobile App,781.09,Books,Neutral,790
+61,1,2023-12-27,47,Website,678.97,Electronics,Resolved,490
+62,0,2023-08-27,16,Mobile App,840.0,Books,Resolved,612
+63,0,2023-05-26,7,Mobile App,2205.11,Furniture,None,705
+64,0,2023-06-03,11,Online Banking,965.21,Clothing,None,697
+65,0,2023-09-25,27,Mobile App,1359.89,Electronics,None,583
+66,0,2023-08-17,40,Online Banking,1409.11,Groceries,None,622
+67,0,2023-07-23,17,Online Banking,701.76,Clothing,Resolved,647
+68,1,2023-07-25,5,Website,886.48,Books,Unresolved,645
+69,0,2023-11-13,29,Mobile App,1038.53,Books,Resolved,534
+70,0,2023-03-15,10,Mobile App,2453.98,Furniture,None,777
+71,1,2023-08-17,47,Online Banking,474.59,Groceries,Neutral,622
+72,1,2023-04-25,25,Online Banking,1080.4,Clothing,Neutral,736
+73,1,2023-10-27,24,Online Banking,2254.22,Clothing,Resolved,551
+74,0,2023-02-19,44,Mobile App,2083.79,Clothing,Resolved,801
+75,1,2023-06-17,12,Mobile App,769.97,Books,Resolved,683
+76,1,2023-05-09,5,Website,883.92,Books,Neutral,722
+77,0,2023-10-15,29,Online Banking,1797.06,Clothing,None,563
+78,0,2023-10-07,35,Mobile App,816.89,Groceries,Unresolved,571
+79,1,2023-04-20,23,Online Banking,931.32,Books,Resolved,741
+80,0,2023-06-09,32,Mobile App,110.82,Furniture,None,691
+81,1,2023-12-03,40,Website,2181.77,Books,None,514
+82,0,2023-05-08,19,Mobile App,232.38,Clothing,None,723
+83,0,2023-12-31,25,Mobile App,1419.92,Clothing,Unresolved,486
+84,0,2023-11-30,45,Online Banking,1545.91,Furniture,None,517
+85,0,2023-08-08,37,Mobile App,1690.08,Groceries,None,631
+86,0,2023-10-18,1,Website,1674.66,Clothing,None,560
+87,0,2023-11-22,43,Website,1411.84,Clothing,Neutral,525
+88,0,2023-02-08,13,Online Banking,447.34,Clothing,None,812
+89,0,2023-09-06,12,Mobile App,1951.99,Electronics,None,602
+90,0,2023-05-30,47,Online Banking,1229.96,Books,Resolved,701
+91,0,2023-02-03,43,Mobile App,1804.74,Books,Neutral,817
+92,0,2023-07-01,37,Mobile App,2265.28,Groceries,Neutral,669
+93,0,2023-10-16,42,Mobile App,848.07,Books,Resolved,562
+94,0,2023-06-27,41,Website,1113.61,Furniture,None,673
+95,0,2023-06-20,12,Online Banking,677.27,Clothing,Resolved,680
+96,0,2023-02-27,36,Mobile App,161.84,Electronics,Unresolved,793
+97,0,2023-12-20,38,Website,553.65,Furniture,Resolved,497
+98,0,2023-05-23,9,Mobile App,893.76,Electronics,Resolved,708
+99,0,2023-02-10,14,Online Banking,889.75,Groceries,None,810
+100,1,2023-06-02,45,Online Banking,1108.56,Clothing,Resolved,698
+101,0,2023-01-15,35,Online Banking,492.35,Groceries,Neutral,836
+102,0,2023-01-14,32,Online Banking,2029.96,Electronics,Neutral,837
+103,0,2023-04-27,46,Mobile App,2297.73,Furniture,Resolved,734
+104,1,2023-03-23,3,Online Banking,2666.84,Electronics,Neutral,769
+105,0,2023-12-24,30,Website,1863.6,Furniture,Unresolved,493
+106,0,2023-07-20,49,Mobile App,875.08,Clothing,Neutral,650
+107,1,2023-01-27,7,Online Banking,1542.76,Clothing,None,824
+108,1,2023-03-24,1,Mobile App,494.31,Books,Unresolved,768
+109,0,2023-04-28,20,Mobile App,1274.7,Books,Unresolved,733
+110,1,2023-10-10,25,Website,723.0,Books,Resolved,568
+111,1,2023-06-17,33,Website,613.18,Books,Unresolved,683
+112,0,2023-10-16,35,Website,750.17,Books,Resolved,562
+113,0,2023-04-12,44,Online Banking,1834.01,Books,Unresolved,749
+114,0,2023-08-02,24,Website,2133.28,Books,None,637
+115,0,2023-09-21,14,Mobile App,653.62,Clothing,None,587
+116,0,2023-08-20,39,Mobile App,1504.28,Books,Resolved,619
+117,0,2023-12-25,44,Online Banking,448.48,Clothing,None,492
+118,0,2023-10-01,34,Online Banking,1625.39,Clothing,Unresolved,577
+119,1,2023-03-29,18,Mobile App,2012.33,Groceries,Resolved,763
+120,0,2023-02-23,2,Online Banking,1168.79,Books,Neutral,797
+121,0,2023-09-09,38,Mobile App,1073.01,Furniture,Neutral,599
+122,1,2023-06-14,17,Mobile App,2825.52,Groceries,Resolved,686
+123,1,2023-03-15,23,Mobile App,938.58,Groceries,Resolved,777
+124,0,2023-02-19,33,Website,2283.88,Books,Resolved,801
+125,0,2023-06-21,28,Online Banking,744.89,Electronics,None,679
+126,0,2023-05-14,15,Website,2323.02,Clothing,None,717
+127,0,2023-01-18,11,Website,1976.17,Furniture,Resolved,833
+128,1,2023-07-07,23,Website,630.2,Books,Neutral,663
+129,0,2023-03-21,13,Website,243.55,Books,Resolved,771
+130,0,2023-02-25,47,Mobile App,552.23,Electronics,Unresolved,795
+131,0,2023-09-24,11,Website,2726.7,Electronics,Resolved,584
+132,0,2023-06-15,36,Website,1879.94,Electronics,None,685
+133,0,2023-04-13,38,Mobile App,896.27,Electronics,Resolved,748
+134,0,2023-01-05,27,Mobile App,1570.08,Clothing,Unresolved,846
+135,0,2023-06-19,18,Mobile App,441.75,Books,None,681
+136,0,2023-11-07,40,Mobile App,419.86,Books,None,540
+137,1,2023-06-19,38,Online Banking,431.47,Electronics,None,681
+138,0,2023-03-20,34,Online Banking,2804.65,Clothing,Unresolved,772
+139,0,2023-06-03,22,Website,2045.49,Electronics,Neutral,697
+140,0,2023-10-21,18,Mobile App,1024.23,Clothing,Resolved,557
+141,0,2023-06-28,41,Online Banking,2483.75,Clothing,Resolved,672
+142,0,2023-04-27,18,Mobile App,1391.99,Books,Unresolved,734
+143,0,2023-12-25,13,Website,343.27,Books,Resolved,492
+144,1,2023-02-18,39,Online Banking,419.85,Electronics,Resolved,802
+145,0,2023-10-11,16,Online Banking,1768.7,Books,Unresolved,567
+146,0,2023-12-12,8,Mobile App,1373.73,Clothing,None,505
+147,0,2023-09-02,34,Mobile App,2260.34,Clothing,Neutral,606
+148,0,2023-03-09,29,Website,13.04,Groceries,Neutral,783
+149,0,2023-02-17,6,Online Banking,444.84,Books,Resolved,803
+150,0,2023-06-29,38,Mobile App,1193.26,Books,None,671
+151,0,2023-06-02,36,Mobile App,334.2,Furniture,Neutral,698
+152,0,2023-09-30,48,Mobile App,1448.8,Furniture,None,578
+153,0,2023-01-26,42,Online Banking,1735.16,Groceries,Unresolved,825
+154,0,2023-04-19,26,Mobile App,1753.55,Books,None,742
+155,0,2023-04-08,18,Website,1883.08,Clothing,Resolved,753
+156,0,2023-06-30,11,Mobile App,702.92,Books,None,670
+157,0,2023-06-13,27,Mobile App,2412.68,Groceries,None,687
+158,0,2023-10-03,30,Online Banking,1471.29,Books,None,575
+159,0,2023-05-11,18,Website,25.75,Electronics,Unresolved,720
+160,1,2023-05-02,43,Online Banking,2053.13,Books,Neutral,729
+161,0,2023-07-24,4,Mobile App,1983.84,Electronics,Unresolved,646
+162,0,2023-06-11,6,Mobile App,425.88,Books,Neutral,689
+163,0,2023-01-13,22,Mobile App,1064.88,Books,Neutral,838
+164,1,2023-11-25,2,Website,955.49,Books,Resolved,522
+165,0,2023-03-01,47,Mobile App,181.34,Clothing,None,791
+166,0,2023-08-03,48,Online Banking,1241.5,Furniture,Resolved,636
+167,0,2023-03-03,40,Website,2356.35,Books,Resolved,789
+168,1,2023-08-29,32,Website,1126.93,Electronics,Neutral,610
+169,0,2023-06-18,39,Mobile App,2164.75,Furniture,Unresolved,682
+170,1,2023-10-12,21,Website,1448.33,Books,Unresolved,566
+171,0,2023-05-04,8,Mobile App,2532.71,Books,Resolved,727
+172,0,2023-12-12,25,Website,1972.76,Furniture,Neutral,505
+173,0,2023-10-22,41,Mobile App,606.09,Books,Resolved,556
+174,1,2023-03-09,36,Mobile App,1801.46,Books,Unresolved,783
+175,0,2023-11-27,4,Website,1218.9,Books,Neutral,520
+176,1,2023-09-23,15,Website,936.78,Clothing,None,585
+177,0,2023-03-05,28,Website,429.79,Electronics,Unresolved,787
+178,0,2023-05-06,20,Website,741.63,Groceries,None,725
+179,0,2023-09-06,38,Website,412.58,Electronics,None,602
+180,0,2023-01-30,6,Online Banking,1985.93,Groceries,None,821
+181,0,2023-04-22,30,Mobile App,715.68,Clothing,None,739
+182,0,2023-06-12,32,Online Banking,1491.65,Electronics,Resolved,688
+183,1,2023-04-21,49,Online Banking,1135.44,Groceries,Resolved,740
+184,0,2023-04-14,41,Online Banking,97.19,Furniture,None,747
+185,0,2023-10-23,4,Online Banking,1284.89,Clothing,Resolved,555
+186,0,2023-10-18,35,Mobile App,460.87,Furniture,None,560
+187,0,2023-01-09,30,Mobile App,513.26,Books,Resolved,842
+188,0,2023-03-29,49,Mobile App,1768.25,Furniture,Neutral,763
+189,0,2023-06-21,41,Mobile App,574.47,Books,Neutral,679
+190,1,2023-04-01,22,Website,1417.97,Groceries,Unresolved,760
+191,0,2023-02-15,2,Website,1942.65,Electronics,Neutral,805
+192,0,2023-07-07,12,Website,1172.53,Electronics,Neutral,663
+193,0,2023-05-11,34,Website,270.34,Clothing,Neutral,720
+194,0,2023-10-23,34,Website,1388.97,Clothing,None,555
+195,0,2023-03-07,14,Website,1711.71,Books,Neutral,785
+196,0,2023-01-22,39,Website,2134.16,Electronics,Unresolved,829
+197,1,2023-03-16,39,Online Banking,925.43,Books,Neutral,776
+198,0,2023-06-21,45,Online Banking,1461.25,Books,None,679
+199,0,2023-01-08,6,Website,1270.25,Electronics,Neutral,843
+200,0,2023-02-10,8,Online Banking,1702.06,Groceries,Resolved,810
+201,1,2023-08-14,27,Online Banking,956.58,Books,Neutral,625
+202,0,2023-03-07,12,Mobile App,336.18,Electronics,Resolved,785
+203,0,2023-04-16,21,Website,1767.9,Electronics,Resolved,745
+204,0,2023-05-08,38,Online Banking,454.14,Books,Neutral,723
+205,0,2023-01-27,4,Mobile App,741.97,Groceries,None,824
+206,0,2023-11-27,25,Mobile App,99.58,Clothing,None,520
+207,0,2023-03-28,43,Website,1799.17,Groceries,None,764
+208,0,2023-06-03,24,Online Banking,436.89,Clothing,None,697
+209,0,2023-10-12,12,Mobile App,1328.06,Clothing,None,566
+210,0,2023-07-24,29,Online Banking,1727.27,Clothing,None,646
+211,0,2023-03-03,35,Online Banking,1222.21,Books,None,789
+212,0,2023-06-14,37,Website,1047.61,Electronics,Resolved,686
+213,1,2023-02-23,30,Website,2092.89,Electronics,Resolved,797
+214,0,2023-11-02,41,Online Banking,734.1,Books,None,545
+215,0,2023-11-07,42,Online Banking,1343.7,Books,Unresolved,540
+216,0,2023-09-06,35,Mobile App,1570.86,Clothing,Resolved,602
+217,1,2023-08-14,1,Online Banking,2576.78,Clothing,Unresolved,625
+218,0,2023-06-12,40,Mobile App,1766.57,Books,None,688
+219,0,2023-07-18,26,Online Banking,1624.32,Furniture,None,652
+220,0,2023-11-12,35,Online Banking,1030.46,Electronics,None,535
+221,1,2023-06-16,42,Mobile App,1277.29,Furniture,Resolved,684
+222,0,2023-06-03,7,Website,1702.45,Groceries,None,697
+223,0,2023-07-22,4,Online Banking,1736.26,Groceries,Resolved,648
+224,0,2023-05-16,5,Website,2520.32,Groceries,None,715
+225,0,2023-07-15,39,Online Banking,2650.29,Electronics,Neutral,655
+226,0,2023-03-10,11,Mobile App,1461.18,Clothing,Unresolved,782
+227,1,2023-11-08,15,Online Banking,1250.35,Clothing,None,539
+228,0,2023-10-16,32,Website,2185.36,Books,Neutral,562
+229,0,2023-12-23,37,Website,2559.03,Clothing,Unresolved,494
+230,1,2023-09-04,9,Online Banking,1468.07,Clothing,Neutral,604
+231,1,2023-02-20,47,Online Banking,1353.42,Books,None,800
+232,0,2023-09-08,32,Online Banking,2082.19,Furniture,Unresolved,600
+233,0,2023-09-18,33,Website,817.42,Books,Resolved,590
+234,1,2023-06-19,23,Online Banking,1576.7,Electronics,None,681
+235,0,2023-12-28,15,Mobile App,770.5,Electronics,Unresolved,489
+236,1,2023-09-25,30,Online Banking,1482.99,Electronics,Resolved,583
+237,1,2023-01-13,16,Online Banking,398.99,Electronics,None,838
+238,1,2023-09-20,22,Mobile App,762.44,Groceries,Unresolved,588
+239,1,2023-10-09,43,Mobile App,2654.84,Electronics,Unresolved,569
+240,0,2023-07-27,30,Online Banking,859.47,Groceries,Resolved,643
+241,0,2023-12-19,1,Mobile App,2185.93,Clothing,Resolved,498
+242,1,2023-02-16,35,Online Banking,726.73,Clothing,Neutral,804
+243,0,2023-12-09,18,Website,2362.18,Books,Unresolved,508
+244,0,2023-06-21,15,Online Banking,1649.9,Clothing,Unresolved,679
+245,0,2023-05-18,21,Online Banking,2965.09,Books,None,713
+246,0,2023-03-24,40,Mobile App,1171.14,Clothing,Resolved,768
+247,0,2023-12-24,2,Online Banking,1887.68,Clothing,Resolved,493
+248,1,2023-08-26,30,Online Banking,1519.14,Furniture,Unresolved,613
+249,0,2023-02-06,40,Website,356.39,Books,Unresolved,814
+250,0,2023-01-09,32,Website,1607.36,Electronics,Resolved,842
+251,1,2023-03-24,28,Website,1968.79,Books,Resolved,768
+252,1,2023-08-11,11,Online Banking,980.71,Groceries,None,628
+253,0,2023-12-03,7,Online Banking,1319.11,Clothing,Resolved,514
+254,1,2023-08-25,1,Mobile App,2220.26,Electronics,Neutral,614
+255,0,2023-06-17,43,Mobile App,2672.69,Furniture,Unresolved,683
+256,0,2023-08-26,28,Mobile App,208.67,Groceries,Neutral,613
+257,0,2023-01-31,39,Website,92.62,Furniture,Resolved,820
+258,0,2023-06-17,19,Mobile App,832.85,Groceries,Neutral,683
+259,0,2023-03-16,39,Online Banking,1469.67,Books,Resolved,776
+260,1,2023-08-24,32,Website,2395.72,Furniture,Resolved,615
+261,1,2023-05-29,49,Online Banking,489.07,Clothing,Unresolved,702
+262,1,2023-02-04,30,Website,2940.59,Books,Unresolved,816
+263,0,2023-12-28,2,Website,13.04,Groceries,Resolved,489
+264,0,2023-03-08,44,Online Banking,525.02,Books,Resolved,784
+265,0,2023-04-06,43,Online Banking,1511.87,Groceries,None,755
+266,0,2023-01-07,37,Online Banking,459.39,Books,Resolved,844
+267,0,2023-11-24,19,Online Banking,461.36,Books,Unresolved,523
+268,0,2023-12-19,26,Mobile App,1096.16,Books,None,498
+269,0,2023-06-16,1,Mobile App,2123.87,Books,Neutral,684
+270,0,2023-04-12,42,Mobile App,734.74,Furniture,Unresolved,749
+271,1,2023-10-28,28,Online Banking,865.97,Books,None,550
+272,1,2023-07-16,26,Online Banking,1170.04,Books,Unresolved,654
+273,0,2023-08-30,40,Mobile App,1562.83,Clothing,None,609
+274,0,2023-01-24,35,Online Banking,1117.33,Books,Unresolved,827
+275,0,2023-06-15,3,Website,605.79,Groceries,Neutral,685
+276,1,2023-06-02,26,Online Banking,2069.7,Books,None,698
+277,0,2023-07-06,33,Mobile App,1217.78,Electronics,None,664
+278,0,2023-02-22,22,Online Banking,1423.1,Books,Unresolved,798
+279,0,2023-04-12,6,Mobile App,1209.94,Clothing,Resolved,749
+280,0,2023-11-19,42,Online Banking,836.33,Books,Neutral,528
+281,0,2023-12-15,34,Online Banking,1563.95,Furniture,Resolved,502
+282,1,2023-07-22,3,Online Banking,2016.68,Electronics,Resolved,648
+283,1,2023-09-20,17,Online Banking,1362.86,Furniture,None,588
+284,0,2023-05-15,6,Mobile App,1683.13,Electronics,None,716
+285,0,2023-08-31,42,Mobile App,1026.59,Groceries,None,608
+286,1,2023-04-03,5,Website,512.19,Books,Neutral,758
+287,0,2023-06-10,20,Website,615.07,Books,Neutral,690
+288,0,2023-03-21,1,Website,2217.85,Clothing,Unresolved,771
+289,0,2023-11-14,24,Mobile App,30.48,Groceries,None,533
+290,0,2023-09-15,9,Mobile App,403.33,Electronics,Unresolved,593
+291,0,2023-09-26,15,Website,1572.74,Clothing,Unresolved,582
+292,0,2023-12-06,37,Website,2429.7,Clothing,Neutral,511
+293,0,2023-01-26,18,Mobile App,209.68,Electronics,None,825
+294,0,2023-03-19,22,Online Banking,1882.08,Furniture,Resolved,773
+295,0,2023-03-09,11,Website,960.99,Books,None,783
+296,0,2023-12-01,38,Mobile App,261.24,Furniture,Unresolved,516
+297,0,2023-10-06,3,Mobile App,1714.09,Groceries,None,572
+298,0,2023-08-23,29,Website,1305.25,Books,Unresolved,616
+299,0,2023-11-04,46,Mobile App,9.8,Groceries,Neutral,543
+300,0,2023-10-15,32,Website,926.53,Groceries,Resolved,563
+301,0,2023-10-02,34,Online Banking,1298.95,Books,Resolved,576
+302,0,2023-02-18,8,Website,925.58,Furniture,Resolved,802
+303,0,2023-05-20,34,Online Banking,948.96,Electronics,Resolved,711
+304,0,2023-04-28,5,Online Banking,695.73,Clothing,Unresolved,733
+305,0,2023-07-15,9,Mobile App,288.26,Groceries,None,655
+306,0,2023-05-03,17,Mobile App,2285.6,Books,None,728
+307,0,2023-11-04,20,Mobile App,1416.68,Books,Resolved,543
+308,0,2023-10-23,42,Mobile App,1791.69,Groceries,None,555
+309,0,2023-04-16,27,Online Banking,1400.5,Books,Resolved,745
+310,0,2023-07-05,5,Online Banking,1058.14,Furniture,None,665
+311,1,2023-07-07,46,Mobile App,592.9,Furniture,Resolved,663
+312,0,2023-06-23,29,Website,283.16,Clothing,Unresolved,677
+313,0,2023-06-19,11,Online Banking,34.91,Furniture,None,681
+314,0,2023-03-21,26,Mobile App,536.29,Books,Unresolved,771
+315,1,2023-10-09,23,Mobile App,601.31,Clothing,Unresolved,569
+316,0,2023-01-28,18,Mobile App,649.71,Clothing,None,823
+317,0,2023-06-02,20,Website,467.83,Books,Unresolved,698
+318,0,2023-09-11,44,Website,2145.44,Groceries,None,597
+319,0,2023-03-12,21,Online Banking,477.46,Books,None,780
+320,0,2023-02-11,26,Online Banking,823.75,Electronics,Neutral,809
+321,0,2023-10-30,32,Online Banking,2007.24,Electronics,Neutral,548
+322,0,2023-11-20,1,Online Banking,61.98,Electronics,Unresolved,527
+323,1,2023-03-10,2,Website,839.3,Clothing,Resolved,782
+324,0,2023-02-23,4,Mobile App,1369.7,Books,Unresolved,797
+325,0,2023-09-30,41,Online Banking,553.79,Clothing,Unresolved,578
+326,0,2023-03-26,10,Website,605.89,Books,None,766
+327,0,2023-08-27,28,Website,403.37,Clothing,Neutral,612
+328,0,2023-04-17,49,Mobile App,848.26,Electronics,None,744
+329,0,2023-08-13,37,Online Banking,2361.19,Groceries,Unresolved,626
+330,0,2023-09-18,17,Mobile App,2582.54,Furniture,None,590
+331,0,2023-01-02,30,Website,908.32,Books,Neutral,849
+332,0,2023-12-06,6,Website,1577.44,Groceries,None,511
+333,0,2023-12-13,11,Website,2439.39,Electronics,Neutral,504
+334,0,2023-01-18,11,Online Banking,1719.37,Groceries,Resolved,833
+335,1,2023-12-27,2,Mobile App,756.52,Books,Resolved,490
+336,0,2023-01-25,20,Mobile App,135.94,Furniture,None,826
+337,0,2023-08-26,34,Website,608.06,Groceries,None,613
+338,0,2023-12-04,41,Mobile App,13.86,Groceries,None,513
+339,0,2023-04-23,1,Website,682.94,Groceries,Resolved,738
+340,0,2023-09-21,48,Mobile App,1147.08,Electronics,Unresolved,587
+341,0,2023-07-05,27,Online Banking,1022.86,Books,Resolved,665
+342,1,2023-10-02,26,Online Banking,2295.76,Furniture,Resolved,576
+343,0,2023-07-26,26,Online Banking,924.63,Clothing,Resolved,644
+344,0,2023-06-27,8,Mobile App,1466.6,Books,Neutral,673
+345,0,2023-09-08,29,Online Banking,1980.5,Books,Resolved,600
+346,0,2023-01-07,17,Online Banking,1641.62,Electronics,Unresolved,844
+347,0,2023-07-20,33,Mobile App,1974.45,Furniture,Neutral,650
+348,0,2023-11-30,1,Online Banking,704.7,Books,Resolved,517
+349,0,2023-08-20,24,Mobile App,1376.54,Books,Resolved,619
+350,0,2023-04-23,25,Online Banking,2702.27,Books,Unresolved,738
+351,1,2023-07-23,1,Mobile App,588.68,Books,Unresolved,647
+352,0,2023-09-02,26,Website,1493.9,Books,Neutral,606
+353,1,2023-03-19,16,Online Banking,266.08,Electronics,Neutral,773
+354,0,2023-07-13,49,Online Banking,324.4,Books,Unresolved,657
+355,0,2023-01-06,33,Website,368.57,Clothing,Neutral,845
+356,0,2023-07-15,28,Mobile App,2316.37,Clothing,None,655
+357,0,2023-09-10,45,Online Banking,780.18,Books,Neutral,598
+358,1,2023-01-17,24,Mobile App,2282.89,Books,Unresolved,834
+359,0,2023-05-03,36,Website,2154.17,Electronics,Resolved,728
+360,0,2023-03-26,14,Online Banking,1731.26,Clothing,Resolved,766
+361,0,2023-04-19,49,Mobile App,2348.41,Clothing,None,742
+362,1,2023-08-14,5,Mobile App,469.14,Furniture,Neutral,625
+363,0,2023-01-01,27,Online Banking,1514.16,Books,Resolved,850
+364,0,2023-08-28,14,Mobile App,286.8,Clothing,Resolved,611
+365,1,2023-10-29,24,Online Banking,1188.84,Electronics,Resolved,549
+366,0,2023-01-16,46,Website,2518.16,Books,None,835
+367,0,2023-09-16,28,Mobile App,2197.79,Clothing,Unresolved,592
+368,0,2023-01-17,8,Online Banking,1939.2,Books,None,834
+369,0,2023-02-07,35,Website,3352.34,Furniture,Unresolved,813
+370,0,2023-06-22,47,Online Banking,1239.81,Books,Neutral,678
+371,0,2023-06-15,35,Website,1454.45,Groceries,Resolved,685
+372,0,2023-10-26,23,Website,35.85,Groceries,Neutral,552
+373,0,2023-05-10,13,Online Banking,267.09,Books,Unresolved,721
+374,0,2023-12-25,47,Online Banking,2143.59,Books,None,492
+375,0,2023-08-31,17,Website,133.2,Groceries,Unresolved,608
+376,0,2023-02-28,31,Website,1143.8,Books,Resolved,792
+377,0,2023-05-11,10,Online Banking,2366.3,Groceries,Neutral,720
+378,0,2023-08-22,36,Website,1333.6,Books,Neutral,617
+379,0,2023-07-24,29,Online Banking,1582.08,Groceries,Resolved,646
+380,0,2023-06-10,16,Mobile App,1172.66,Furniture,None,690
+381,1,2023-07-18,33,Website,1087.62,Electronics,Resolved,652
+382,0,2023-03-01,14,Mobile App,2467.11,Furniture,Resolved,791
+383,0,2023-08-21,7,Online Banking,800.56,Clothing,Neutral,618
+384,0,2023-12-26,33,Website,339.17,Clothing,Neutral,491
+385,1,2023-08-24,3,Mobile App,1338.28,Electronics,None,615
+386,0,2023-10-23,26,Website,773.11,Clothing,Resolved,555
+387,0,2023-10-30,39,Website,47.52,Clothing,Unresolved,548
+388,1,2023-08-21,5,Online Banking,1787.42,Books,None,618
+389,1,2023-04-04,23,Online Banking,522.89,Furniture,None,757
+390,0,2023-02-18,33,Mobile App,281.95,Furniture,None,802
+391,0,2023-07-21,30,Mobile App,1990.15,Books,None,649
+392,0,2023-09-03,33,Mobile App,1533.34,Groceries,Resolved,605
+393,0,2023-12-04,43,Website,1960.83,Books,Resolved,513
+394,0,2023-07-11,25,Online Banking,2346.48,Clothing,Neutral,659
+395,1,2023-07-22,22,Online Banking,680.27,Clothing,Neutral,648
+396,1,2023-05-07,1,Online Banking,865.73,Furniture,Unresolved,724
+397,0,2023-05-10,10,Online Banking,2322.98,Groceries,None,721
+398,0,2023-10-09,23,Online Banking,1678.12,Groceries,Resolved,569
+399,0,2023-06-02,33,Website,568.35,Books,Resolved,698
+400,0,2023-03-19,39,Online Banking,2309.85,Books,None,773
+401,0,2023-08-22,28,Website,1273.36,Furniture,Neutral,617
+402,1,2023-08-11,43,Mobile App,609.58,Books,Neutral,628
+403,0,2023-08-30,8,Online Banking,1645.76,Furniture,Resolved,609
+404,1,2023-10-28,27,Mobile App,2787.1,Groceries,Resolved,550
+405,0,2023-02-25,5,Online Banking,508.49,Furniture,None,795
+406,0,2023-12-29,15,Website,2017.78,Groceries,Neutral,488
+407,1,2023-08-25,48,Mobile App,2722.74,Electronics,Unresolved,614
+408,0,2023-10-14,22,Online Banking,2101.4,Clothing,Neutral,564
+409,0,2023-01-20,35,Mobile App,1524.84,Electronics,Unresolved,831
+410,0,2023-08-09,30,Online Banking,1426.2,Groceries,Unresolved,630
+411,1,2023-09-20,48,Website,87.02,Clothing,None,588
+412,0,2023-12-31,44,Website,184.86,Clothing,None,486
+413,0,2023-03-16,33,Website,1592.61,Books,Unresolved,776
+414,0,2023-09-04,30,Online Banking,1497.89,Electronics,Resolved,604
+415,0,2023-06-18,36,Online Banking,354.64,Clothing,Resolved,682
+416,0,2023-04-23,16,Online Banking,1442.26,Books,Unresolved,738
+417,0,2023-11-09,38,Website,873.63,Electronics,None,538
+418,0,2023-09-20,23,Online Banking,1282.72,Electronics,Neutral,588
+419,1,2023-02-07,37,Online Banking,1254.43,Clothing,None,813
+420,0,2023-01-06,37,Website,2140.54,Furniture,Resolved,845
+421,0,2023-12-16,28,Mobile App,594.42,Books,Unresolved,501
+422,1,2023-10-04,14,Mobile App,1770.89,Books,Resolved,574
+423,0,2023-04-04,4,Mobile App,1329.45,Clothing,None,757
+424,0,2023-09-24,39,Website,965.41,Electronics,Unresolved,584
+425,0,2023-11-03,33,Website,1768.53,Electronics,Neutral,544
+426,0,2023-09-10,31,Website,1465.93,Furniture,None,598
+427,0,2023-08-14,13,Online Banking,521.56,Books,Resolved,625
+428,0,2023-08-10,36,Mobile App,2414.15,Books,Neutral,629
+429,0,2023-01-11,10,Mobile App,1361.39,Furniture,Neutral,840
+430,0,2023-07-02,47,Online Banking,148.98,Furniture,Neutral,668
+431,0,2023-05-26,31,Website,233.87,Clothing,Resolved,705
+432,0,2023-12-16,26,Mobile App,1834.48,Books,None,501
+433,1,2023-12-03,14,Mobile App,1302.43,Electronics,None,514
+434,0,2023-11-09,4,Mobile App,41.19,Electronics,Neutral,538
+435,0,2023-03-18,33,Online Banking,488.45,Books,Resolved,774
+436,0,2023-09-18,47,Website,543.99,Books,Neutral,590
+437,0,2023-09-20,13,Website,1698.21,Books,None,588
+438,0,2023-04-20,48,Website,2131.01,Clothing,Resolved,741
+439,0,2023-02-20,41,Online Banking,1373.54,Electronics,Unresolved,800
+440,0,2023-02-19,34,Online Banking,1920.61,Books,Neutral,801
+441,1,2023-10-28,43,Mobile App,2560.36,Groceries,Unresolved,550
+442,0,2023-06-20,35,Mobile App,412.55,Electronics,Resolved,680
+443,0,2023-06-08,28,Website,1115.64,Electronics,None,692
+444,0,2023-12-06,31,Mobile App,387.51,Books,None,511
+445,0,2023-05-27,30,Online Banking,1002.46,Books,Neutral,704
+446,0,2023-10-13,32,Mobile App,1516.93,Clothing,Neutral,565
+447,0,2023-12-01,13,Website,169.69,Clothing,None,516
+448,0,2023-09-08,41,Mobile App,1461.03,Groceries,None,600
+449,0,2023-05-11,34,Mobile App,1460.65,Furniture,Unresolved,720
+450,1,2023-09-08,8,Website,1527.63,Books,None,600
+451,0,2023-07-13,42,Mobile App,364.46,Furniture,Neutral,657
+452,0,2023-10-18,25,Online Banking,2341.48,Groceries,Unresolved,560
+453,0,2023-04-20,33,Online Banking,346.54,Electronics,None,741
+454,0,2023-07-13,10,Online Banking,472.88,Books,None,657
+455,0,2023-12-23,40,Website,565.79,Clothing,Resolved,494
+456,0,2023-11-22,34,Mobile App,2402.0,Books,Unresolved,525
+457,0,2023-06-14,44,Website,1730.33,Books,Unresolved,686
+458,0,2023-01-10,33,Website,2767.15,Furniture,None,841
+459,0,2023-03-13,5,Mobile App,62.87,Groceries,Unresolved,779
+460,0,2023-02-24,45,Online Banking,336.72,Books,Unresolved,796
+461,0,2023-07-15,27,Online Banking,449.87,Electronics,Unresolved,655
+462,1,2023-04-09,8,Online Banking,391.36,Clothing,None,752
+463,0,2023-04-17,7,Online Banking,1668.22,Furniture,None,744
+464,0,2023-12-11,22,Website,2166.33,Clothing,None,506
+465,0,2023-11-14,46,Website,1217.08,Books,None,533
+466,1,2023-06-25,28,Online Banking,1918.16,Clothing,None,675
+467,0,2023-12-17,9,Website,1104.21,Clothing,Resolved,500
+468,0,2023-12-23,31,Online Banking,818.31,Electronics,None,494
+469,1,2023-10-24,4,Mobile App,1626.7,Electronics,Unresolved,554
+470,1,2023-06-09,5,Website,1916.68,Clothing,Unresolved,691
+471,0,2023-01-10,13,Mobile App,1109.17,Clothing,Neutral,841
+472,0,2023-12-30,6,Mobile App,2217.28,Books,None,487
+473,0,2023-01-17,23,Online Banking,251.46,Books,None,834
+474,0,2023-03-15,47,Online Banking,2460.07,Groceries,Neutral,777
+475,0,2023-05-08,35,Mobile App,1635.13,Books,Resolved,723
+476,0,2023-01-30,34,Mobile App,2145.93,Furniture,Resolved,821
+477,0,2023-11-20,38,Online Banking,806.96,Electronics,None,527
+478,1,2023-07-16,34,Mobile App,1615.84,Clothing,None,654
+479,0,2023-09-03,11,Website,1184.28,Electronics,Neutral,605
+480,1,2023-06-09,6,Website,1351.01,Books,Unresolved,691
+481,0,2023-07-19,32,Website,3386.04,Books,Resolved,651
+482,1,2023-01-25,35,Website,2624.42,Electronics,Resolved,826
+483,0,2023-03-23,34,Mobile App,1262.48,Clothing,Unresolved,769
+484,0,2023-04-13,43,Mobile App,988.39,Groceries,None,748
+485,0,2023-09-15,28,Mobile App,2129.71,Books,Resolved,593
+486,0,2023-08-18,5,Online Banking,758.73,Furniture,Neutral,621
+487,0,2023-10-11,34,Mobile App,1624.23,Books,Neutral,567
+488,1,2023-06-14,33,Mobile App,393.84,Books,None,686
+489,0,2023-11-23,12,Online Banking,1101.11,Clothing,None,524
+490,0,2023-02-28,40,Online Banking,2063.08,Furniture,Neutral,792
+491,1,2023-11-30,44,Website,1483.12,Furniture,Resolved,517
+492,0,2023-01-06,38,Online Banking,1491.8,Clothing,None,845
+493,0,2023-08-29,44,Online Banking,976.0,Electronics,None,610
+494,0,2023-10-08,12,Mobile App,269.73,Electronics,Resolved,570
+495,0,2023-01-07,37,Online Banking,1738.14,Furniture,Unresolved,844
+496,0,2023-12-29,1,Website,216.79,Books,Resolved,488
+497,0,2023-08-30,40,Mobile App,1554.77,Electronics,Unresolved,609
+498,1,2023-06-28,5,Website,763.91,Books,None,672
+499,0,2023-11-30,2,Mobile App,458.77,Books,Resolved,517
+500,0,2023-11-22,46,Online Banking,2429.22,Clothing,None,525
+501,0,2023-04-15,25,Online Banking,1317.18,Electronics,None,746
+502,0,2023-09-20,38,Mobile App,703.33,Furniture,Unresolved,588
+503,0,2023-12-07,25,Website,1336.58,Furniture,None,510
+504,0,2023-11-04,48,Mobile App,551.93,Books,Unresolved,543
+505,0,2023-06-23,22,Mobile App,2312.7,Books,Neutral,677
+506,1,2023-08-10,1,Online Banking,1009.74,Groceries,Unresolved,629
+507,1,2023-10-15,25,Online Banking,2325.03,Furniture,Neutral,563
+508,0,2023-10-21,33,Online Banking,1536.61,Books,None,557
+509,1,2023-08-08,22,Website,2446.54,Books,Unresolved,631
+510,1,2023-07-04,31,Mobile App,392.1,Groceries,Unresolved,666
+511,1,2023-02-12,19,Online Banking,2027.88,Furniture,Resolved,808
+512,0,2023-08-02,48,Mobile App,1362.35,Furniture,None,637
+513,0,2023-06-18,18,Online Banking,172.81,Clothing,None,682
+514,0,2023-07-23,1,Mobile App,1606.29,Electronics,None,647
+515,0,2023-01-06,19,Online Banking,1639.58,Clothing,None,845
+516,1,2023-12-28,14,Mobile App,612.22,Furniture,None,489
+517,0,2023-01-11,11,Online Banking,1073.98,Books,None,840
+518,1,2023-09-25,8,Mobile App,3078.6,Books,Neutral,583
+519,0,2023-06-09,18,Mobile App,1894.4,Books,Neutral,691
+520,0,2023-07-16,9,Mobile App,1959.29,Furniture,Resolved,654
+521,1,2023-02-09,43,Website,645.75,Electronics,Neutral,811
+522,0,2023-09-15,28,Website,2557.54,Clothing,Neutral,593
+523,0,2023-08-22,11,Mobile App,2090.02,Electronics,None,617
+524,0,2023-10-30,49,Online Banking,2565.36,Clothing,Unresolved,548
+525,0,2023-12-07,41,Website,462.44,Groceries,Unresolved,510
+526,0,2023-02-14,30,Online Banking,446.32,Books,Resolved,806
+527,0,2023-12-28,44,Online Banking,343.51,Furniture,None,489
+528,0,2023-05-16,27,Online Banking,1353.55,Books,Resolved,715
+529,0,2023-05-18,26,Online Banking,2333.72,Groceries,Unresolved,713
+530,1,2023-12-06,49,Mobile App,1311.64,Furniture,None,511
+531,1,2023-11-09,12,Online Banking,2008.12,Clothing,Unresolved,538
+532,0,2023-10-22,38,Website,2372.58,Electronics,Neutral,556
+533,0,2023-10-29,27,Mobile App,388.31,Books,Unresolved,549
+534,0,2023-08-16,37,Mobile App,536.31,Books,Unresolved,623
+535,0,2023-06-26,17,Mobile App,2145.98,Furniture,None,674
+536,0,2023-11-10,46,Mobile App,1639.36,Furniture,Unresolved,537
+537,1,2023-05-27,9,Online Banking,2067.57,Books,None,704
+538,0,2023-06-13,6,Online Banking,651.88,Furniture,Neutral,687
+539,0,2023-09-22,13,Mobile App,1286.35,Books,Neutral,586
+540,0,2023-01-17,6,Online Banking,649.47,Books,Unresolved,834
+541,0,2023-09-22,38,Mobile App,185.03,Books,Neutral,586
+542,0,2023-07-07,4,Mobile App,344.77,Books,None,663
+543,1,2023-08-25,16,Online Banking,939.83,Groceries,Unresolved,614
+544,0,2023-02-21,36,Website,1099.45,Electronics,Unresolved,799
+545,1,2023-10-08,43,Website,452.87,Clothing,Resolved,570
+546,0,2023-02-10,14,Online Banking,575.05,Electronics,Resolved,810
+547,0,2023-01-22,29,Website,716.14,Books,None,829
+548,0,2023-11-29,24,Website,2116.14,Books,None,518
+549,0,2023-09-02,39,Mobile App,358.67,Books,None,606
+550,0,2023-12-30,39,Online Banking,2140.26,Groceries,Neutral,487
+551,0,2023-01-03,45,Mobile App,3027.91,Books,Unresolved,848
+552,0,2023-02-05,25,Website,1049.96,Books,None,815
+553,0,2023-11-24,46,Website,2125.61,Clothing,None,523
+554,0,2023-09-25,46,Mobile App,1822.54,Books,Resolved,583
+555,0,2023-11-09,3,Website,393.99,Clothing,None,538
+556,0,2023-02-09,42,Online Banking,2132.54,Groceries,Resolved,811
+557,0,2023-12-02,27,Online Banking,1179.98,Books,Neutral,515
+558,0,2023-10-24,12,Online Banking,1722.97,Clothing,None,554
+559,0,2023-08-15,43,Website,2151.66,Books,Unresolved,624
+560,1,2023-12-20,2,Mobile App,203.34,Furniture,None,497
+561,0,2023-10-22,38,Online Banking,1369.4,Clothing,Resolved,556
+562,1,2023-05-13,26,Online Banking,2160.95,Groceries,None,718
+563,0,2023-06-12,29,Mobile App,1090.13,Books,None,688
+564,0,2023-06-06,45,Online Banking,1859.23,Electronics,None,694
+565,1,2023-04-22,30,Website,2436.25,Furniture,Neutral,739
+566,0,2023-06-15,38,Online Banking,1867.21,Furniture,None,685
+567,0,2023-11-27,41,Online Banking,472.36,Groceries,None,520
+568,0,2023-08-16,32,Online Banking,1051.21,Groceries,Resolved,623
+569,0,2023-11-22,38,Online Banking,1550.85,Electronics,Resolved,525
+570,0,2023-08-04,21,Mobile App,2358.04,Groceries,Neutral,635
+571,0,2023-04-25,8,Website,962.48,Books,Unresolved,736
+572,0,2023-01-26,6,Website,538.06,Clothing,None,825
+573,0,2023-01-23,4,Website,1331.4,Groceries,None,828
+574,1,2023-04-01,17,Mobile App,2437.4,Groceries,Resolved,760
+575,0,2023-07-10,21,Mobile App,1550.26,Electronics,Neutral,660
+576,1,2023-12-21,4,Website,755.93,Books,Unresolved,496
+577,1,2023-04-25,35,Website,2373.23,Groceries,Unresolved,736
+578,0,2023-04-23,30,Mobile App,715.6,Books,Resolved,738
+579,1,2023-05-23,27,Online Banking,402.41,Furniture,None,708
+580,0,2023-12-01,12,Website,232.75,Groceries,Neutral,516
+581,0,2023-03-25,48,Mobile App,407.66,Clothing,Unresolved,767
+582,0,2023-10-18,20,Online Banking,1876.36,Books,None,560
+583,0,2023-02-15,40,Online Banking,783.96,Clothing,None,805
+584,0,2023-11-07,44,Online Banking,1677.08,Electronics,Neutral,540
+585,0,2023-04-08,41,Online Banking,1709.36,Books,Resolved,753
+586,1,2023-11-14,33,Online Banking,1667.53,Electronics,Unresolved,533
+587,0,2023-04-01,10,Website,623.49,Electronics,Resolved,760
+588,1,2023-11-21,5,Mobile App,1726.51,Electronics,Neutral,526
+589,1,2023-04-20,11,Mobile App,2356.94,Clothing,Neutral,741
+590,0,2023-10-14,21,Mobile App,1383.59,Furniture,None,564
+591,0,2023-04-23,20,Online Banking,215.12,Electronics,Neutral,738
+592,0,2023-02-03,44,Mobile App,2642.14,Electronics,None,817
+593,0,2023-01-04,9,Online Banking,2959.62,Electronics,Resolved,847
+594,0,2023-06-09,30,Mobile App,2544.69,Electronics,Neutral,691
+595,0,2023-04-23,48,Online Banking,2270.36,Furniture,Resolved,738
+596,0,2023-06-07,4,Mobile App,1346.76,Electronics,None,693
+597,0,2023-10-17,9,Website,1726.9,Clothing,Unresolved,561
+598,0,2023-07-09,40,Online Banking,1906.1,Clothing,None,661
+599,0,2023-12-16,3,Website,2347.42,Electronics,Resolved,501
+600,0,2023-11-22,38,Online Banking,865.0,Books,Unresolved,525
+601,0,2023-09-11,25,Website,2473.79,Books,Neutral,597
+602,1,2023-05-13,37,Mobile App,1158.83,Furniture,None,718
+603,0,2023-06-16,30,Mobile App,1476.4,Electronics,None,684
+604,0,2023-05-06,31,Website,437.93,Clothing,Neutral,725
+605,1,2023-01-13,17,Mobile App,1187.98,Books,None,838
+606,0,2023-10-03,10,Website,271.99,Groceries,None,575
+607,1,2023-01-16,8,Mobile App,1489.51,Books,Unresolved,835
+608,0,2023-01-14,2,Mobile App,2463.96,Clothing,Unresolved,837
+609,0,2023-12-21,32,Website,110.77,Furniture,Neutral,496
+610,0,2023-12-07,11,Mobile App,1504.22,Clothing,None,510
+611,0,2023-10-11,10,Online Banking,624.87,Clothing,Unresolved,567
+612,0,2023-12-17,41,Online Banking,1688.29,Clothing,Resolved,500
+613,0,2023-08-26,32,Online Banking,612.18,Furniture,None,613
+614,1,2023-03-25,24,Mobile App,1239.16,Books,Resolved,767
+615,0,2023-08-11,7,Online Banking,481.68,Groceries,Neutral,628
+616,1,2023-08-14,29,Online Banking,1674.35,Furniture,Unresolved,625
+617,1,2023-01-22,2,Online Banking,2146.58,Electronics,None,829
+618,1,2023-11-20,16,Mobile App,1025.54,Groceries,Resolved,527
+619,1,2023-04-27,31,Online Banking,244.19,Groceries,Unresolved,734
+620,0,2023-02-25,12,Online Banking,694.35,Groceries,Unresolved,795
+621,0,2023-08-15,32,Online Banking,204.8,Groceries,Resolved,624
+622,0,2023-10-01,47,Online Banking,754.54,Books,Unresolved,577
+623,0,2023-04-12,41,Online Banking,1074.25,Books,Unresolved,749
+624,0,2023-11-19,18,Website,934.44,Clothing,None,528
+625,1,2023-08-03,3,Mobile App,2452.39,Books,None,636
+626,0,2023-02-27,16,Website,2416.9,Clothing,None,793
+627,1,2023-11-16,49,Website,1929.48,Electronics,Resolved,531
+628,0,2023-01-16,42,Website,67.65,Groceries,Resolved,835
+629,0,2023-01-07,18,Online Banking,657.37,Books,Neutral,844
+630,1,2023-08-17,44,Website,942.44,Electronics,Unresolved,622
+631,0,2023-07-23,15,Website,238.83,Books,Neutral,647
+632,0,2023-11-28,41,Online Banking,1060.86,Books,Unresolved,519
+633,0,2023-11-04,37,Online Banking,1985.72,Clothing,Unresolved,543
+634,0,2023-04-21,23,Mobile App,1053.54,Clothing,Unresolved,740
+635,0,2023-12-10,26,Online Banking,1574.74,Books,Unresolved,507
+636,0,2023-09-27,7,Online Banking,1041.72,Groceries,Neutral,581
+637,0,2023-04-26,48,Online Banking,1629.96,Clothing,Resolved,735
+638,0,2023-04-30,21,Website,194.63,Books,None,731
+639,0,2023-03-30,29,Website,1874.22,Electronics,Unresolved,762
+640,0,2023-11-24,45,Website,2408.65,Books,Neutral,523
+641,1,2023-06-15,7,Online Banking,1717.57,Furniture,Neutral,685
+642,0,2023-08-15,6,Online Banking,1587.38,Electronics,Unresolved,624
+643,1,2023-09-17,27,Online Banking,1060.42,Clothing,None,591
+644,1,2023-09-11,43,Mobile App,266.05,Groceries,Resolved,597
+645,0,2023-06-28,46,Website,328.56,Electronics,Neutral,672
+646,1,2023-02-23,17,Website,163.69,Books,None,797
+647,0,2023-03-11,24,Mobile App,12.46,Electronics,Neutral,781
+648,0,2023-08-11,28,Website,1028.17,Electronics,Resolved,628
+649,0,2023-07-01,26,Website,759.57,Electronics,Unresolved,669
+650,1,2023-08-30,38,Online Banking,499.67,Clothing,Resolved,609
+651,0,2023-05-17,26,Online Banking,1467.02,Books,None,714
+652,0,2023-05-18,40,Website,1245.86,Furniture,Unresolved,713
+653,0,2023-03-30,1,Mobile App,392.17,Groceries,Resolved,762
+654,0,2023-02-19,19,Mobile App,1437.17,Groceries,Resolved,801
+655,0,2023-01-31,26,Mobile App,2097.25,Groceries,Unresolved,820
+656,0,2023-07-10,35,Mobile App,1567.52,Books,None,660
+657,1,2023-12-07,16,Online Banking,1135.3,Electronics,Resolved,510
+658,1,2023-06-25,13,Mobile App,1132.79,Clothing,Unresolved,675
+659,0,2023-09-25,10,Website,1658.16,Clothing,Neutral,583
+660,0,2023-08-13,8,Mobile App,2676.26,Furniture,Neutral,626
+661,0,2023-10-12,27,Mobile App,1579.69,Clothing,None,566
+662,0,2023-09-01,26,Mobile App,758.41,Furniture,None,607
+663,0,2023-04-12,3,Mobile App,1160.99,Clothing,Unresolved,749
+664,0,2023-08-24,45,Online Banking,1972.94,Electronics,Unresolved,615
+665,0,2023-06-15,36,Online Banking,1405.19,Furniture,Unresolved,685
+666,0,2023-10-22,41,Online Banking,474.38,Clothing,None,556
+667,0,2023-10-19,8,Online Banking,1442.15,Clothing,Resolved,559
+668,0,2023-06-03,32,Website,1668.59,Groceries,Unresolved,697
+669,0,2023-11-06,19,Website,2232.41,Books,Neutral,541
+670,0,2023-04-02,12,Online Banking,143.34,Books,None,759
+671,0,2023-02-28,45,Online Banking,2587.47,Books,Resolved,792
+672,0,2023-04-01,45,Mobile App,77.31,Books,Resolved,760
+673,0,2023-07-02,13,Mobile App,1779.5,Groceries,Resolved,668
+674,1,2023-01-23,44,Online Banking,2314.49,Groceries,Neutral,828
+675,0,2023-06-07,48,Online Banking,2461.3,Books,Resolved,693
+676,0,2023-11-16,45,Mobile App,923.55,Electronics,None,531
+677,1,2023-07-05,7,Website,308.82,Groceries,Neutral,665
+678,0,2023-04-22,47,Online Banking,864.3,Groceries,Resolved,739
+679,0,2023-08-31,47,Website,1700.3,Furniture,Neutral,608
+680,0,2023-12-24,16,Website,2490.85,Clothing,None,493
+681,0,2023-06-22,32,Mobile App,1463.19,Groceries,None,678
+682,1,2023-09-14,9,Mobile App,1084.11,Books,Resolved,594
+683,0,2023-08-19,26,Online Banking,1383.28,Clothing,Neutral,620
+684,0,2023-07-24,48,Mobile App,1240.94,Electronics,Resolved,646
+685,1,2023-07-27,40,Website,534.74,Clothing,None,643
+686,0,2023-07-29,47,Website,1019.67,Clothing,None,641
+687,0,2023-11-24,20,Online Banking,1446.69,Books,Resolved,523
+688,0,2023-10-05,6,Website,2281.47,Books,Neutral,573
+689,0,2023-01-24,11,Mobile App,897.51,Furniture,None,827
+690,0,2023-12-22,29,Online Banking,638.06,Clothing,None,495
+691,1,2023-01-11,7,Mobile App,683.19,Books,None,840
+692,0,2023-06-24,29,Website,1421.26,Clothing,None,676
+693,0,2023-10-01,43,Mobile App,2154.62,Electronics,Resolved,577
+694,0,2023-01-12,4,Online Banking,1500.44,Groceries,None,839
+695,1,2023-02-09,24,Mobile App,2615.43,Electronics,Neutral,811
+696,1,2023-02-10,3,Website,55.77,Clothing,Unresolved,810
+697,0,2023-07-11,12,Online Banking,489.1,Books,None,659
+698,0,2023-07-03,35,Website,273.02,Furniture,None,667
+699,1,2023-02-14,8,Mobile App,994.16,Electronics,None,806
+700,0,2023-12-18,38,Online Banking,2810.28,Books,Neutral,499
+701,0,2023-01-18,41,Online Banking,2395.1,Books,None,833
+702,1,2023-12-31,38,Mobile App,681.77,Books,None,486
+703,0,2023-09-16,15,Mobile App,1289.55,Books,Resolved,592
+704,0,2023-11-03,5,Website,948.68,Electronics,None,544
+705,0,2023-05-16,40,Website,1783.47,Books,Unresolved,715
+706,0,2023-03-27,16,Online Banking,104.0,Books,Unresolved,765
+707,0,2023-01-02,46,Online Banking,35.24,Groceries,Unresolved,849
+708,0,2023-09-29,28,Website,807.48,Clothing,Unresolved,579
+709,0,2023-07-21,13,Mobile App,346.94,Books,None,649
+710,0,2023-04-29,41,Website,1373.66,Furniture,None,732
+711,0,2023-02-26,11,Website,391.99,Clothing,Unresolved,794
+712,0,2023-11-30,37,Mobile App,1159.39,Books,Resolved,517
+713,0,2023-03-12,3,Website,1792.54,Books,Resolved,780
+714,0,2023-09-08,8,Mobile App,1170.32,Clothing,None,600
+715,0,2023-06-02,38,Online Banking,555.91,Furniture,Unresolved,698
+716,1,2023-01-11,47,Mobile App,3220.3,Electronics,Neutral,840
+717,0,2023-05-03,34,Website,1950.63,Electronics,Unresolved,728
+718,0,2023-07-12,38,Mobile App,1845.21,Clothing,Unresolved,658
+719,0,2023-12-16,42,Online Banking,434.86,Clothing,None,501
+720,0,2023-01-30,24,Website,1551.13,Books,Neutral,821
+721,0,2023-04-28,18,Website,921.33,Electronics,None,733
+722,0,2023-04-03,25,Website,814.74,Clothing,Unresolved,758
+723,0,2023-06-02,13,Website,2143.56,Clothing,Resolved,698
+724,0,2023-10-24,39,Website,477.73,Books,Unresolved,554
+725,0,2023-10-14,22,Mobile App,627.29,Books,None,564
+726,0,2023-08-29,30,Online Banking,2048.2,Books,Resolved,610
+727,0,2023-08-13,30,Mobile App,1252.1,Groceries,None,626
+728,0,2023-05-05,37,Website,1552.44,Furniture,Unresolved,726
+729,0,2023-02-09,45,Mobile App,161.07,Books,Resolved,811
+730,0,2023-12-20,43,Website,1247.79,Electronics,Resolved,497
+731,0,2023-12-20,15,Online Banking,1559.5,Books,None,497
+732,0,2023-12-16,35,Mobile App,1865.72,Books,Unresolved,501
+733,1,2023-01-15,6,Online Banking,681.14,Groceries,Unresolved,836
+734,0,2023-09-04,11,Mobile App,1047.12,Electronics,Neutral,604
+735,0,2023-10-05,28,Website,2165.49,Clothing,Neutral,573
+736,0,2023-03-03,30,Website,576.3,Clothing,Unresolved,789
+737,0,2023-05-13,16,Mobile App,2132.05,Clothing,Neutral,718
+738,0,2023-05-25,28,Mobile App,675.36,Furniture,Unresolved,706
+739,0,2023-10-07,25,Online Banking,338.97,Books,None,571
+740,0,2023-05-27,48,Online Banking,2094.81,Furniture,Resolved,704
+741,0,2023-06-22,30,Website,2317.66,Furniture,Resolved,678
+742,1,2023-03-30,45,Online Banking,583.1,Books,None,762
+743,0,2023-07-28,14,Online Banking,1118.41,Groceries,Resolved,642
+744,0,2023-06-09,27,Website,1132.03,Clothing,None,691
+745,0,2023-06-10,48,Website,2639.28,Electronics,None,690
+746,0,2023-12-18,30,Mobile App,604.82,Furniture,Resolved,499
+747,0,2023-12-02,10,Online Banking,967.08,Clothing,Unresolved,515
+748,1,2023-02-06,20,Mobile App,284.57,Electronics,None,814
+749,0,2023-02-26,44,Online Banking,618.27,Books,Neutral,794
+750,0,2023-08-21,7,Website,2600.41,Furniture,Neutral,618
+751,0,2023-08-24,34,Website,1172.35,Clothing,Resolved,615
+752,0,2023-12-07,27,Website,2056.76,Clothing,Resolved,510
+753,1,2023-06-26,23,Online Banking,1560.95,Books,Neutral,674
+754,0,2023-11-04,46,Website,1122.07,Groceries,None,543
+755,0,2023-02-19,45,Website,539.68,Books,None,801
+756,0,2023-08-09,25,Mobile App,2081.7,Books,None,630
+757,1,2023-09-06,28,Mobile App,1484.12,Books,Resolved,602
+758,0,2023-08-07,18,Online Banking,1725.5,Groceries,Unresolved,632
+759,0,2023-03-12,13,Website,575.97,Clothing,Resolved,780
+760,0,2023-01-30,13,Online Banking,477.75,Groceries,Neutral,821
+761,0,2023-01-07,45,Online Banking,1309.22,Groceries,Resolved,844
+762,1,2023-11-06,34,Mobile App,2577.95,Clothing,Unresolved,541
+763,1,2023-04-28,14,Mobile App,693.13,Electronics,Resolved,733
+764,0,2023-02-15,28,Mobile App,496.99,Groceries,None,805
+765,0,2023-12-07,13,Online Banking,1079.2,Books,Resolved,510
+766,0,2023-07-09,34,Website,910.23,Books,Resolved,661
+767,0,2023-08-10,5,Mobile App,2189.69,Furniture,None,629
+768,0,2023-08-22,40,Mobile App,1068.46,Clothing,None,617
+769,0,2023-05-26,10,Mobile App,1257.45,Furniture,Neutral,705
+770,0,2023-01-30,36,Website,970.67,Clothing,Unresolved,821
+771,0,2023-04-13,6,Online Banking,1500.63,Furniture,Neutral,748
+772,0,2023-04-30,21,Online Banking,1124.58,Furniture,Unresolved,731
+773,0,2023-07-07,35,Website,1918.91,Clothing,None,663
+774,0,2023-11-24,16,Online Banking,41.49,Books,None,523
+775,1,2023-08-01,20,Website,1586.9,Electronics,Resolved,638
+776,0,2023-08-06,31,Mobile App,1647.73,Books,Neutral,633
+777,1,2023-09-22,5,Website,1488.0,Furniture,None,586
+778,0,2023-07-24,6,Online Banking,2064.51,Groceries,Neutral,646
+779,0,2023-07-17,2,Mobile App,1563.06,Electronics,Resolved,653
+780,0,2023-10-19,39,Mobile App,2107.59,Clothing,Unresolved,559
+781,0,2023-01-28,22,Mobile App,548.61,Clothing,Resolved,823
+782,1,2023-09-07,11,Mobile App,1042.79,Electronics,Unresolved,601
+783,0,2023-08-10,15,Website,1133.68,Electronics,None,629
+784,0,2023-08-09,13,Online Banking,1567.71,Groceries,Neutral,630
+785,0,2023-10-08,33,Online Banking,1960.77,Furniture,Resolved,570
+786,0,2023-09-10,46,Mobile App,2141.4,Furniture,Neutral,598
+787,0,2023-05-10,14,Website,1255.38,Books,Neutral,721
+788,1,2023-08-20,39,Online Banking,1041.15,Books,None,619
+789,1,2023-09-20,2,Website,1755.7,Electronics,Resolved,588
+790,0,2023-04-28,10,Website,2782.16,Clothing,Resolved,733
+791,1,2023-12-21,42,Website,441.32,Clothing,Resolved,496
+792,0,2023-08-06,30,Online Banking,1381.17,Books,Neutral,633
+793,0,2023-10-14,32,Website,1189.15,Electronics,Resolved,564
+794,0,2023-05-23,9,Website,2430.75,Books,Resolved,708
+795,0,2023-12-31,48,Online Banking,993.04,Clothing,Resolved,486
+796,0,2023-02-09,16,Website,2309.95,Books,None,811
+797,0,2023-12-29,39,Website,922.22,Electronics,Resolved,488
+798,0,2023-05-27,5,Mobile App,953.95,Books,Resolved,704
+799,1,2023-01-03,46,Mobile App,912.13,Furniture,Unresolved,848
+800,0,2023-05-28,15,Online Banking,1213.09,Clothing,Neutral,703
+801,0,2023-09-05,4,Website,1621.99,Clothing,None,603
+802,0,2023-09-07,24,Mobile App,504.29,Clothing,Neutral,601
+803,0,2023-11-14,25,Website,2136.39,Books,Unresolved,533
+804,0,2023-12-19,37,Website,2218.53,Clothing,Resolved,498
+805,0,2023-01-17,24,Website,1100.62,Electronics,Resolved,834
+806,1,2023-08-20,42,Online Banking,421.3,Books,Resolved,619
+807,1,2023-02-28,13,Mobile App,1217.41,Furniture,None,792
+808,0,2023-08-18,20,Online Banking,1759.63,Clothing,Neutral,621
+809,0,2023-02-10,5,Mobile App,1482.36,Clothing,None,810
+810,0,2023-02-17,20,Online Banking,1290.08,Books,Resolved,803
+811,0,2023-04-08,18,Online Banking,871.11,Electronics,Resolved,753
+812,1,2023-03-09,39,Mobile App,2042.29,Groceries,Resolved,783
+813,0,2023-12-08,49,Website,2206.29,Books,None,509
+814,0,2023-05-22,3,Online Banking,1650.27,Books,Resolved,709
+815,0,2023-08-21,44,Online Banking,493.38,Furniture,None,618
+816,0,2023-10-20,31,Online Banking,1299.37,Books,None,558
+817,0,2023-12-17,30,Website,337.9,Clothing,None,500
+818,0,2023-03-23,41,Online Banking,1295.74,Clothing,Resolved,769
+819,0,2023-05-06,24,Website,985.26,Furniture,Unresolved,725
+820,0,2023-09-08,5,Online Banking,566.46,Furniture,None,600
+821,0,2023-06-19,20,Mobile App,304.95,Electronics,Resolved,681
+822,0,2023-01-29,24,Mobile App,2275.24,Books,Unresolved,822
+823,1,2023-12-31,17,Online Banking,651.38,Electronics,Resolved,486
+824,0,2023-02-04,8,Online Banking,318.01,Furniture,None,816
+825,0,2023-11-11,21,Website,1087.05,Books,None,536
+826,1,2023-07-18,14,Mobile App,1099.45,Clothing,Unresolved,652
+827,1,2023-10-09,38,Online Banking,2317.93,Books,None,569
+828,0,2023-10-12,32,Online Banking,1361.59,Furniture,Unresolved,566
+829,0,2023-06-13,36,Online Banking,144.37,Electronics,None,687
+830,0,2023-07-17,40,Website,395.99,Clothing,None,653
+831,1,2023-09-03,4,Mobile App,1417.95,Furniture,Unresolved,605
+832,0,2023-08-22,21,Website,1463.62,Groceries,None,617
+833,0,2023-09-14,25,Mobile App,1000.79,Electronics,Unresolved,594
+834,0,2023-11-21,45,Mobile App,1521.86,Books,Unresolved,526
+835,0,2023-07-21,1,Mobile App,825.2,Furniture,Resolved,649
+836,1,2023-06-06,47,Mobile App,1130.44,Electronics,Resolved,694
+837,0,2023-08-26,13,Website,1600.01,Clothing,None,613
+838,0,2023-01-03,16,Online Banking,1729.93,Books,Neutral,848
+839,0,2023-06-28,29,Mobile App,1182.6,Electronics,None,672
+840,0,2023-06-24,39,Mobile App,997.83,Groceries,Resolved,676
+841,1,2023-08-04,29,Website,1829.46,Furniture,Unresolved,635
+842,0,2023-03-29,12,Mobile App,2806.69,Groceries,Resolved,763
+843,0,2023-02-07,31,Website,1069.53,Books,Resolved,813
+844,0,2023-10-31,20,Mobile App,1505.23,Clothing,None,547
+845,0,2023-02-18,35,Online Banking,2238.86,Books,None,802
+846,0,2023-09-19,41,Mobile App,1667.48,Furniture,None,589
+847,0,2023-11-22,28,Online Banking,1672.93,Groceries,Resolved,525
+848,1,2023-01-03,35,Mobile App,690.16,Electronics,Neutral,848
+849,0,2023-01-20,29,Website,830.54,Furniture,Neutral,831
+850,1,2023-08-20,44,Mobile App,38.12,Books,None,619
+851,0,2023-01-29,39,Online Banking,580.18,Electronics,Resolved,822
+852,0,2023-09-23,29,Mobile App,569.13,Books,Unresolved,585
+853,0,2023-12-01,34,Website,1178.95,Books,Unresolved,516
+854,0,2023-07-12,10,Mobile App,47.85,Furniture,Neutral,658
+855,0,2023-09-25,37,Online Banking,2656.16,Books,Neutral,583
+856,0,2023-05-18,48,Website,524.36,Books,None,713
+857,1,2023-07-10,7,Mobile App,379.0,Furniture,Resolved,660
+858,0,2023-08-08,9,Website,224.33,Clothing,Resolved,631
+859,0,2023-07-24,16,Website,2320.9,Clothing,None,646
+860,0,2023-05-27,21,Mobile App,410.36,Books,Neutral,704
+861,0,2023-05-16,14,Website,258.79,Books,Resolved,715
+862,0,2023-03-07,2,Online Banking,1581.13,Furniture,None,785
+863,0,2023-10-14,26,Online Banking,1031.04,Clothing,Neutral,564
+864,0,2023-03-20,34,Website,1537.15,Books,None,772
+865,0,2023-06-10,47,Mobile App,2739.69,Clothing,Unresolved,690
+866,0,2023-12-26,49,Website,440.09,Groceries,None,491
+867,0,2023-12-20,18,Website,985.19,Books,None,497
+868,0,2023-07-22,12,Website,1858.01,Books,None,648
+869,1,2023-12-15,19,Online Banking,1708.06,Groceries,Neutral,502
+870,0,2023-01-18,36,Website,358.81,Furniture,Unresolved,833
+871,0,2023-09-16,38,Online Banking,1268.83,Clothing,Neutral,592
+872,0,2023-04-30,16,Website,2710.07,Electronics,None,731
+873,0,2023-10-20,46,Website,868.72,Clothing,None,558
+874,0,2023-12-29,8,Mobile App,488.21,Electronics,Resolved,488
+875,0,2023-12-02,9,Website,2066.71,Clothing,None,515
+876,0,2023-09-20,4,Online Banking,1940.62,Groceries,Resolved,588
+877,0,2023-05-31,36,Website,2189.55,Electronics,None,700
+878,0,2023-08-05,47,Website,2181.62,Clothing,None,634
+879,0,2023-07-11,38,Online Banking,328.09,Electronics,Resolved,659
+880,0,2023-11-10,49,Online Banking,1311.23,Electronics,Resolved,537
+881,0,2023-04-01,49,Website,189.28,Books,Neutral,760
+882,0,2023-09-10,45,Website,745.26,Clothing,None,598
+883,0,2023-10-15,4,Website,776.71,Electronics,Unresolved,563
+884,0,2023-10-05,8,Online Banking,2069.03,Clothing,Unresolved,573
+885,0,2023-01-09,43,Mobile App,2431.03,Electronics,Neutral,842
+886,0,2023-08-21,7,Mobile App,2197.83,Books,Resolved,618
+887,0,2023-03-11,3,Website,812.28,Books,Neutral,781
+888,0,2023-09-04,1,Online Banking,436.94,Clothing,Unresolved,604
+889,0,2023-01-26,4,Mobile App,306.88,Books,None,825
+890,0,2023-03-01,1,Mobile App,369.47,Books,Resolved,791
+891,0,2023-03-15,46,Website,1602.17,Clothing,Unresolved,777
+892,0,2023-01-16,42,Mobile App,183.21,Groceries,Unresolved,835
+893,0,2023-10-14,38,Mobile App,3026.91,Books,Neutral,564
+894,0,2023-08-21,37,Mobile App,983.26,Books,Neutral,618
+895,0,2023-09-26,12,Mobile App,1649.08,Books,None,582
+896,0,2023-11-22,42,Online Banking,1403.03,Clothing,Resolved,525
+897,0,2023-08-21,10,Mobile App,2125.28,Books,Unresolved,618
+898,0,2023-01-09,47,Online Banking,2794.0,Clothing,Unresolved,842
+899,1,2023-12-16,1,Website,38.78,Furniture,Unresolved,501
+900,0,2023-03-23,2,Online Banking,353.54,Clothing,Resolved,769
+901,0,2023-01-14,12,Website,517.94,Electronics,None,837
+902,0,2023-09-17,39,Online Banking,1040.2,Books,Neutral,591
+903,1,2023-06-22,48,Mobile App,762.78,Books,Resolved,678
+904,0,2023-11-24,36,Mobile App,1684.39,Clothing,Resolved,523
+905,0,2023-11-27,7,Online Banking,1222.55,Books,Unresolved,520
+906,1,2023-04-03,38,Website,1235.8,Clothing,None,758
+907,0,2023-06-07,25,Website,54.82,Books,None,693
+908,0,2023-12-06,3,Website,1865.09,Electronics,Neutral,511
+909,0,2023-02-02,27,Online Banking,718.24,Electronics,None,818
+910,0,2023-08-16,24,Online Banking,797.14,Books,None,623
+911,0,2023-02-27,27,Mobile App,1058.9,Groceries,None,793
+912,0,2023-07-30,6,Mobile App,1915.01,Electronics,Unresolved,640
+913,0,2023-09-17,25,Mobile App,267.44,Electronics,Resolved,591
+914,0,2023-07-31,43,Website,1722.8,Books,Neutral,639
+915,0,2023-06-22,31,Online Banking,1786.6,Books,None,678
+916,0,2023-08-31,44,Mobile App,1176.86,Books,None,608
+917,0,2023-05-10,9,Mobile App,1799.36,Books,Resolved,721
+918,1,2023-10-11,39,Mobile App,1140.82,Clothing,None,567
+919,1,2023-12-14,29,Website,1547.47,Books,None,503
+920,0,2023-10-08,14,Mobile App,2059.02,Electronics,Unresolved,570
+921,0,2023-11-05,36,Online Banking,1778.2,Furniture,Unresolved,542
+922,0,2023-08-10,29,Website,1135.0,Clothing,Unresolved,629
+923,0,2023-02-10,43,Website,2462.85,Clothing,Unresolved,810
+924,1,2023-03-25,41,Website,760.13,Clothing,Unresolved,767
+925,1,2023-01-20,38,Mobile App,1930.41,Clothing,None,831
+926,1,2023-05-03,22,Online Banking,157.62,Groceries,None,728
+927,1,2023-06-06,12,Mobile App,1462.34,Electronics,None,694
+928,0,2023-05-21,40,Website,2584.66,Electronics,Neutral,710
+929,0,2023-02-16,49,Online Banking,358.27,Groceries,None,804
+930,0,2023-08-10,26,Website,809.61,Groceries,None,629
+931,0,2023-03-10,46,Mobile App,1985.28,Clothing,Unresolved,782
+932,0,2023-06-05,28,Online Banking,350.46,Electronics,Resolved,695
+933,0,2023-04-29,21,Website,74.06,Furniture,Neutral,732
+934,0,2023-11-14,27,Mobile App,282.29,Furniture,Resolved,533
+935,1,2023-10-28,33,Website,939.39,Furniture,Resolved,550
+936,0,2023-07-28,29,Mobile App,2591.57,Clothing,None,642
+937,1,2023-03-30,24,Mobile App,1842.66,Groceries,Neutral,762
+938,0,2023-06-19,32,Website,695.93,Books,Unresolved,681
+939,0,2023-11-22,6,Website,394.48,Furniture,None,525
+940,0,2023-04-04,27,Mobile App,1536.43,Books,Neutral,757
+941,0,2023-09-22,16,Website,1440.83,Clothing,None,586
+942,0,2023-06-13,36,Online Banking,1539.42,Books,None,687
+943,0,2023-03-19,47,Website,398.92,Furniture,Resolved,773
+944,0,2023-06-04,30,Website,1280.1,Books,Neutral,696
+945,0,2023-07-20,15,Website,541.2,Electronics,None,650
+946,0,2023-11-13,8,Mobile App,451.82,Books,None,534
+947,1,2023-05-06,31,Website,589.06,Clothing,Unresolved,725
+948,1,2023-02-12,9,Mobile App,1416.12,Electronics,None,808
+949,0,2023-06-12,42,Online Banking,956.3,Books,None,688
+950,0,2023-04-22,21,Online Banking,1085.17,Electronics,None,739
+951,0,2023-11-08,39,Online Banking,1494.92,Electronics,Neutral,539
+952,0,2023-03-20,39,Website,344.33,Clothing,Unresolved,772
+953,0,2023-10-21,43,Website,2580.58,Electronics,Neutral,557
+954,0,2023-07-20,20,Online Banking,2009.32,Books,None,650
+955,0,2023-12-08,26,Website,1453.74,Electronics,Neutral,509
+956,0,2023-10-20,38,Online Banking,858.04,Clothing,None,558
+957,0,2023-06-01,43,Mobile App,32.8,Groceries,None,699
+958,0,2023-05-21,14,Online Banking,972.8,Clothing,Unresolved,710
+959,0,2023-11-17,48,Online Banking,285.35,Groceries,None,530
+960,0,2023-02-10,41,Online Banking,1553.52,Groceries,Unresolved,810
+961,0,2023-05-01,21,Mobile App,964.33,Clothing,Neutral,730
+962,1,2023-04-04,19,Online Banking,1021.08,Clothing,Unresolved,757
+963,0,2023-09-17,14,Online Banking,660.33,Electronics,Resolved,591
+964,0,2023-03-13,9,Online Banking,2348.82,Books,Neutral,779
+965,1,2023-07-11,42,Mobile App,213.98,Electronics,Unresolved,659
+966,1,2023-05-16,4,Mobile App,2097.75,Groceries,None,715
+967,0,2023-04-28,23,Online Banking,230.71,Books,None,733
+968,0,2023-01-17,22,Online Banking,344.12,Furniture,Resolved,834
+969,0,2023-04-25,20,Online Banking,1296.96,Books,Unresolved,736
+970,1,2023-03-22,19,Website,748.68,Electronics,Unresolved,770
+971,1,2023-10-17,19,Mobile App,283.95,Books,None,561
+972,0,2023-10-26,23,Mobile App,1105.44,Electronics,None,552
+973,0,2023-10-18,31,Website,56.53,Clothing,None,560
+974,0,2023-09-12,46,Mobile App,1789.81,Furniture,None,596
+975,1,2023-09-14,19,Mobile App,1892.18,Furniture,None,594
+976,0,2023-02-17,44,Online Banking,557.62,Clothing,None,803
+977,0,2023-02-08,20,Online Banking,772.34,Furniture,Resolved,812
+978,0,2023-09-14,26,Mobile App,1465.5,Clothing,Unresolved,594
+979,1,2023-05-18,6,Website,1711.28,Books,Resolved,713
+980,0,2023-05-04,28,Online Banking,2079.5,Electronics,Unresolved,727
+981,0,2023-09-23,41,Website,285.43,Clothing,None,585
+982,1,2023-06-20,4,Mobile App,913.21,Furniture,Resolved,680
+983,0,2023-05-09,49,Mobile App,1395.3,Groceries,Neutral,722
+984,0,2023-05-01,44,Website,1127.04,Electronics,Resolved,730
+985,0,2023-03-04,9,Website,1752.58,Books,Neutral,788
+986,0,2023-11-08,49,Online Banking,1392.61,Clothing,Resolved,539
+987,1,2023-06-08,14,Mobile App,1683.65,Books,None,692
+988,0,2023-02-14,31,Website,2543.12,Clothing,Unresolved,806
+989,1,2023-07-26,29,Website,1530.42,Clothing,Unresolved,644
+990,1,2023-06-07,49,Mobile App,483.5,Clothing,Neutral,693
+991,0,2023-09-17,22,Website,801.36,Groceries,None,591
+992,0,2023-03-26,9,Website,311.62,Electronics,Unresolved,766
+993,0,2023-12-27,11,Website,81.64,Clothing,None,490
+994,0,2023-07-23,25,Mobile App,1801.34,Groceries,Unresolved,647
+995,1,2023-07-31,34,Website,1020.0,Clothing,Resolved,639
+996,0,2023-01-29,38,Mobile App,227.25,Books,None,822
+997,0,2023-04-01,5,Mobile App,419.82,Electronics,None,760
+998,0,2023-07-10,47,Website,252.15,Books,None,660
+999,0,2023-01-08,23,Website,2393.26,Furniture,None,843
+1000,0,2023-08-13,22,Mobile App,1670.79,Books,None,626
